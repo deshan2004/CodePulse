@@ -4,8 +4,8 @@
   <p align="center"><strong>Automated Software Quality Assurance (SQA) & Performance Dashboard</strong></p>
   
   <p align="center">
-    <a href="https://github.com/yourusername/CodePulse/issues">issues</a> •
-    <a href="https://github.com/yourusername/CodePulse/pulls">pull requests</a>
+    <a href="https://github.com/deshan2004/CodePulse/issues">issues</a> •
+    <a href="https://github.com/deshan2004/CodePulse/pulls">pull requests</a>
   </p>
 </div>
 
@@ -72,5 +72,5 @@ Make sure you have the following installed on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/CodePulse.git](https://github.com/yourusername/CodePulse.git)
+git clone [https://github.com/deshan2004/CodePulse.git](https://github.com/deshan2004/CodePulse.git)
 cd CodePulse
